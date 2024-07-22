@@ -519,7 +519,9 @@ h3{
   padding: 20px 0 20px;
   position: relative;
 }
-
+#fh5co-resume .license{
+  margin-top: 88px;
+}
 .timeline:before {
   top: 20px;
   bottom: 0;
@@ -564,6 +566,7 @@ h3{
   border-radius: 4px;
   color: #fff;
 }
+
 
 @media screen and (max-width: 768px) {
   .timeline .timeline-heading>div h3 {
@@ -1559,6 +1562,9 @@ input[type="text"] {
   color: #171717;
   font-family: 'EliceDigitalBaeum';
   font-weight: 700;
+}
+.project_btn_box a:hover{
+  color: #917db8;
 }
 
 @media screen and (max-width: 991px) {
